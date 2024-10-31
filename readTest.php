@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "usuario"; // Reemplaza con tu usuario de MariaDB
-$password = "password"; // Reemplaza con tu contraseña de MariaDB
+$password = "root123"; // Reemplaza con tu contraseña de MariaDB
 $dbname = "mi_proyecto"; // Reemplaza con el nombre de tu base de datos
 
 // Crear conexión
